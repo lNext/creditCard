@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     color: white;
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-.container{
+.container {
     background-color: #7000ff;
     width: 350px;
     height: 200px;
@@ -21,50 +21,46 @@ body{
     border: solid 1px transparent;
 }
 
-.title{
-    color: black;
-    text-align: center;
-}
-
-.information{
+.information {
     padding: 30px;
 }
 
-.logos{
+.logos {
     text-align: right;
 }
 
-.cods p{
+.cods p {
     font-size: 25px;
     font-weight: 20;
 }
 
-.personal{
+.personal {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
 }
 
-.personal span{
+.personal span {
     font-weight: bold;
 }
 
-.reves{
-    background-color: #7000ff;
-    width: 350px;
-    height: 200px;
-    border-radius: 20px;
+.reves {
     display: none;
 }
 
-.line{
+.title {
+    color: black;
+    text-align: center;
+}
+
+.line {
     width: 100%;
     height: 40px;
     background: #000;
     border: solid 1px transparent;
 }
 
-.cvc{
+.cvc {
     background: #FFF;
     margin-top: 30px;
     width: 70%;
@@ -73,23 +69,24 @@ body{
     border-radius: 5px;
 }
 
-.cvc p{
+.cvc p {
     color: #000;
     text-align: right;
     padding: 5px;
     font-style: italic;
 }
 
-.cvc p span{
+.cvc p span {
     font-weight: bold;
 }
 
-@media screen and (max-width: 500px){
-    .container{
+@media screen and (max-width: 500px) {
+    .container {
         width: 90%;
         height: auto;
     }
-    .reves{
+
+    .reves {
         width: 100%;
     }
 }
