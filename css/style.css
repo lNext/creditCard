@@ -45,6 +45,9 @@ body {
 }
 
 .reves {
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
     display: none;
 }
 
