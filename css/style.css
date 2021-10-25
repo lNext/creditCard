@@ -87,6 +87,7 @@ body{
 @media screen and (max-width: 500px){
     .container{
         width: 90%;
+        height: auto;
     }
     .reves{
         width: 100%;
