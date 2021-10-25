@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/lNext/404_Error/blob/main/img/demoimg.png?raw=true)
+![screenshot](https://github.com/lNext/creditCard/blob/main/img/sstc.png?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
