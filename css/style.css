@@ -21,6 +21,11 @@ body{
     border: solid 1px transparent;
 }
 
+.title{
+    color: black;
+    text-align: center;
+}
+
 .information{
     padding: 30px;
 }
