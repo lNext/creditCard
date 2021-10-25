@@ -16,7 +16,7 @@ let nombre = document.getElementById('nombre');
 let date = document.getElementById('date');
 let seguridad = document.getElementById('seguridad');
 let nnombre = "Sebastián López";
-let ncod = "3212 4312 3123 4312";
+let ncod = "**** **** **** 4312";
 let ndate = "07/29";
 let nseguridad = "143";
 //Impresión
