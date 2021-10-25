@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://four04-error.onrender.com/">
+    <a href="https://creditcard.onrender.com/">
       Demo
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- You can see the demo here: https://four04-error.onrender.com/.
+- You can see the demo here: https://creditcard.onrender.com/.
 - I have 4 years working in web dev.
 - I wan to improve my HTML, CSS and JS experience, I want to be a hig leve front end web dev.
 - I have 5 year of experience.
